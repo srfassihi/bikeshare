@@ -50,5 +50,12 @@ Thank you for listening to my Citi Bike Rider Sharing Program presentation. This
 
 ## Summary
 
-Although Manhattan is a more congested and populous city than Des Moine Iowa, they share similar characteristics that lend well to incorporating a bike sharing program:
+Although Manhattan is a more congested and populous city than Des Moines, they share similar characteristics that lend well to incorporating a bike sharing program:
+- Dense metropolitan area
+- Public bus routes
+- Parks and trails adjacent to downtown
+- Short distance traveled for commute
 
+These factors may hinder the success of a bike sharing program in Des Moines:
+- Higher car ownership than New York City
+- Less options for public transportation
